@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "aoc2k20": {
+      "commandName": "Project",
+      "commandLineArgs": "3 2",
+      "workingDirectory": "C:\\Users\\carl\\source\\repos\\aoc2k20"
+    }
+  }
+}
