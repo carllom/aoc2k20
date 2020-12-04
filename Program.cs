@@ -14,6 +14,7 @@ namespace aoc2k20
             new Action[] {Day1.Task1, Day1.Task2 },
             new Action[] {Day2.Task1, Day2.Task2 },
             new Action[] {Day3.Task1, Day3.Task2 },
+            new Action[] {Day4.Task1, Day4.Task2 },
             new Action[] {DayX.Task1, DayX.Task2 }
         };
 
