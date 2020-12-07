@@ -17,6 +17,7 @@ namespace aoc2k20
             new Action[] {Day4.Task1, Day4.Task2 },
             new Action[] {Day5.Task1, Day5.Task2 },
             new Action[] {Day6.Task1, Day6.Task2 },
+            new Action[] {Day7.Task1, Day7.Task2 },
         };
 
         public void Run(int day, int task)
