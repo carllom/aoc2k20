@@ -10,7 +10,7 @@ namespace aoc2k20
             app.Run(int.Parse(args[0]), int.Parse(args[1]));
         }
 
-        private Action[][] tasks = new[]{
+        private readonly Action[][] tasks = {
             new Action[] {Day1.Task1, Day1.Task2 },
             new Action[] {Day2.Task1, Day2.Task2 },
             new Action[] {Day3.Task1, Day3.Task2 },
@@ -18,6 +18,7 @@ namespace aoc2k20
             new Action[] {Day5.Task1, Day5.Task2 },
             new Action[] {Day6.Task1, Day6.Task2 },
             new Action[] {Day7.Task1, Day7.Task2 },
+            new Action[] {Day8.Task1, Day8.Task2 },
         };
 
         public void Run(int day, int task)
