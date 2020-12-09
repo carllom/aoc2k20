@@ -3,9 +3,9 @@ using System.IO;
 
 namespace aoc2k20
 {
-    class DayX
+    class Day10
     {
-        private static readonly string[] Data = File.ReadAllLines("data/4-.txt");
+        private static readonly string[] Data = File.ReadAllLines("data/10-.txt");
         public static void Task1()
         {
             var result = 0;
